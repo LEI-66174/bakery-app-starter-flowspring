@@ -1,3 +1,10 @@
+Grupo: "Scrum Masters"
+Alunos: 
+- 66174 Rúben Rocha
+- 106090 Tiago Alves
+- 113239 Pedro Veloso
+- 122123 Rodrigo Delaunay
+
 # ⚠️ This starter is not recommended ⚠️
 
 **This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
