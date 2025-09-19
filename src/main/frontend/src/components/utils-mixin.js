@@ -17,6 +17,8 @@ export const ScrollShadowMixin = (subclass) =>
       };
     }
 
+    //comentário
+
     firstUpdated() {
       super.firstUpdated();
 
