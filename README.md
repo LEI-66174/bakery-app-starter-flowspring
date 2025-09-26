@@ -1,5 +1,5 @@
-Grupo: "Scrum Masters"
-Alunos: 
+## Grupo: "Scrum Masters"
+### Alunos: 
 - 66174 Rúben Rocha
 - 106090 Tiago Alves
 - 113239 Pedro Veloso
